@@ -1,4 +1,9 @@
 title: "FPL Team Bot"
 url: https://burkovsky.github.io
 baseurl: /fpl-team-bot-landing/
+author:
+  name: Anton B
+  email: burkovsky.anton@gmail.com
 theme: minima
+minima:
+  skin: auto
