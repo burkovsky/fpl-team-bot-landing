@@ -1,4 +1,4 @@
-# FPL Team Bot [https://t.me/fpl_team_bot](https://t.me/fpl_team_bot)
+# FPL Team Bot [@fpl_team_bot](https://t.me/fpl_team_bot)
 
 Like most FPL managers, I mainly use the official app.
 
