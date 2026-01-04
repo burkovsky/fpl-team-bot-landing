@@ -4,6 +4,4 @@ baseurl: /fpl-team-bot-landing/
 author:
   name: Anton B
   email: burkovsky.anton@gmail.com
-theme: minima
-minima:
-  skin: auto
+theme: jekyll-theme-minimal
